@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineering Student at UoGuelph! 
 
-#### :heavy_check_mark: 🌱 I’m currently learning ...
+####   :heavy_check_mark: 🌱 I’m currently learning ...
 <!--
 **myronladyjenko/myronladyjenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
