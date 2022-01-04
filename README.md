@@ -1,5 +1,6 @@
 ### Hello World 👋, I'm Myron 
 
+I'm a Software Engineering Student at UoGuelph! 
 <!--
 **myronladyjenko/myronladyjenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
