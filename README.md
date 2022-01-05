@@ -3,7 +3,8 @@
 ### I'm a Software Engineering Student at UoGuelph! 
 
 ##### :heavy_check_mark: 🌱 I’m currently learning С, Java, SQL Databases, and JavaScript    
-##### :heavy_check_mark: ⚡ Fun fact: Ma favourite game is 
+##### :heavy_check_mark: ⚡ Fun fact: Ma favourite game is Block Puzzle 
+<img src="https://user-images.githubusercontent.com/86271481/148141783-907b649e-a4bc-41e9-aeb2-7598a4352f7b.jpg" width="50" height="50">
 ##### :heavy_check_mark: 📫 How to reach me: 
 [<img src="https://user-images.githubusercontent.com/86271481/148139942-3630fb3d-5d51-4404-b449-4a09e186157a.png" width="50" height="50">](https://www.linkedin.com/in/myron-ladyjenko)
 
