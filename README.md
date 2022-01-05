@@ -5,7 +5,7 @@
 ##### :heavy_check_mark: 🌱 I’m currently learning С, Java, SQL Databases, and JavaScript    
 ##### :heavy_check_mark: ⚡ Fun fact: Ma favourite game is 
 ##### :heavy_check_mark: 📫 How to reach me: 
-[![linkeIN](https://user-images.githubusercontent.com/86271481/148139942-3630fb3d-5d51-4404-b449-4a09e186157a.png){:height="36px" width="36px"}](https://www.linkedin.com/in/myron-ladyjenko)
+[![linkeIN](https://user-images.githubusercontent.com/86271481/148139942-3630fb3d-5d51-4404-b449-4a09e186157a.png {:height="36px" width="36px"})](https://www.linkedin.com/in/myron-ladyjenko)
 <!--
 **myronladyjenko/myronladyjenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
