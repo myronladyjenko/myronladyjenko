@@ -4,9 +4,8 @@
 
 ##### :heavy_check_mark: 🌱 I’m currently learning С, Java, SQL Databases, and JavaScript    
 ##### :heavy_check_mark: ⚡ Fun fact: Ma favourite game is 
-##### :heavy_check_mark: 📫 How to reach me: [![linkeIN](https://user-images.githubusercontent.com/86271481/148139942-3630fb3d-5d51-4404-b449-4a09e186157a.png](https://www.linkedin.com/in/myron-ladyjenko/)
-...
-<img src="https://www.google.com/search?q=linkedin+logo+picture&tbm=isch&ved=2ahUKEwjFkb3cpJn1AhXRhHIEHb1SDwMQ2-cCegQIABAA&oq=linkedin+logo+picture&gs_lcp=CgNpbWcQAzIECAAQEzIICAAQCBAeEBMyCAgAEAgQHhATOgcIIxDvAxAnOgYIABAHEB46CAgAEAgQBxAeUIcEWJ4LYNoOaABwAHgAgAFziAGIBZIBAzAuNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=J93UYYXiK9GJytMPvaW9GA&bih=754&biw=1536#imgrc=fs4pmTfaTyQuqM.png">
+##### :heavy_check_mark: 📫 How to reach me: 
+[![linkeIN](https://user-images.githubusercontent.com/86271481/148139942-3630fb3d-5d51-4404-b449-4a09e186157a.png)](https://www.linkedin.com/in/myron-ladyjenko)
 <!--
 **myronladyjenko/myronladyjenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
