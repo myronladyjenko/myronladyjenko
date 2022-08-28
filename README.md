@@ -3,7 +3,7 @@
 ### I'm a Software Engineering Student at UoGuelph! 
 
 :heavy_check_mark: 🌱 I’m currently learning С, Java, SQL Databases, and JavaScript    
-:heavy_check_mark: ⚡ Fun fact: Ma favourite game is Block Puzzle and World Map Quiz
+:heavy_check_mark: ⚡ Fun fact: Ma favourite game World Map Quiz and Block Puzzle
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/86271481/148141783-907b649e-a4bc-41e9-aeb2-7598a4352f7b.jpg" width="60" height="60">  
 :heavy_check_mark: 📫 How to reach me:   
