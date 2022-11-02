@@ -7,7 +7,8 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://user-images.githubusercontent.com/86271481/148141783-907b649e-a4bc-41e9-aeb2-7598a4352f7b.jpg" width="60" height="60">  
 :heavy_check_mark: 📫 How to reach me:   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://user-images.githubusercontent.com/86271481/199534121-9c5a5495-71a7-46a6-85b4-bafd6bb0ae3e.png" width="80" height="80">](https://www.linkedin.com/in/myron-ladyjenko)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img src="![image](https://user-images.githubusercontent.com/86271481/199534643-ece368bd-a1d4-4a63-9427-99047b189264.png)
+" width="80" height="80">](https://www.linkedin.com/in/myron-ladyjenko)
 
 <!--
 **myronladyjenko/myronladyjenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
